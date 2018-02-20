@@ -6,15 +6,33 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Leeds-eBooks/eslint-config-mealsup.git"
   },
-  "keywords": ["eslint", "config"],
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "author": "benstyles",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Leeds-eBooks/eslint-config-mealsup/issues"
   },
-  "homepage": "https://github.com/Leeds-eBooks/eslint-config-mealsup#readme"
+  "homepage": "https://github.com/Leeds-eBooks/eslint-config-mealsup#readme",
+  "peerDependencies": {
+    "eslint": ">=4",
+    "eslint-plugin-babel": "^4.1.2",
+    "eslint-plugin-flowtype": "^2.45.0",
+    "eslint-plugin-immutable": "^1.0.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-react-native": "^3.2.1"
+  },
+  "devDependencies": {
+    "release-it": "^7.0.2"
+  }
 }
