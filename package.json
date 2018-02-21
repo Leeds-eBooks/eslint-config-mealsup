@@ -9,6 +9,9 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Leeds-eBooks/eslint-config-mealsup.git"
