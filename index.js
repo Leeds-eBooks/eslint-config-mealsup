@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['rapt', 'plugins:react/recommended'],
+  extends: ['rapt', 'plugin:react/recommended'],
   globals: {
     __DEV__: false,
   },
