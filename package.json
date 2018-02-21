@@ -39,6 +39,6 @@
     "release-it": "^7.0.2"
   },
   "dependencies": {
-    "eslint-config-rapt": "^0.0.2"
+    "eslint-config-rapt": "^1.0.0"
   }
 }
