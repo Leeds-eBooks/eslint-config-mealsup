@@ -40,6 +40,6 @@
     "release-it": "^7.2.1"
   },
   "dependencies": {
-    "eslint-config-rapt": "^1.3.0"
+    "eslint-config-rapt": "^1.4.0"
   }
 }

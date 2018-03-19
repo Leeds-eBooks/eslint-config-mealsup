@@ -1190,9 +1190,9 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-config-rapt@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-rapt/-/eslint-config-rapt-1.3.0.tgz#55716cccc15cfc3c0319a2c66145e420b25aa5f5"
+eslint-config-rapt@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-rapt/-/eslint-config-rapt-1.4.0.tgz#9f130f7883172894ef07b784f4c6b4441cd72420"
 
 esutils@^2.0.2:
   version "2.0.2"
