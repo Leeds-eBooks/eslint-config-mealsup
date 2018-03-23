@@ -16,6 +16,7 @@ module.exports = {
     'react-native/split-platform-components': 1,
     'react-native/no-inline-styles': 1,
     'react/jsx-key': 0,
+    'react/jsx-boolean-value': 1,
     'react/prop-types': 0,
     'react/no-did-update-set-state': 1,
   },
