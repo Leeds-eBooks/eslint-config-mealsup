@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mealsup",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Default eslint config for @MealsUpApp",
   "main": "index.js",
   "scripts": {
