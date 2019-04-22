@@ -27,19 +27,14 @@
   },
   "homepage": "https://github.com/Leeds-eBooks/eslint-config-mealsup#readme",
   "peerDependencies": {
-    "eslint": ">=4",
-    "eslint-plugin-babel": "^4.1.2",
-    "eslint-plugin-eslint-comments": "^2.0.2",
-    "eslint-plugin-flowtype": "^2.46.1",
-    "eslint-plugin-fp": "^2.3.0",
-    "eslint-plugin-import": "^2.9.0",
-    "eslint-plugin-react": "^7.7.0",
-    "eslint-plugin-react-native": "^3.2.1"
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.6.0",
+    "eslint-plugin-react-native": "^3.6.0"
   },
   "devDependencies": {
-    "release-it": "^7.3.0"
+    "release-it": "^10.4.3"
   },
   "dependencies": {
-    "eslint-config-rapt": "^1.4.1"
+    "eslint-config-rapt": "^1.5.1"
   }
 }

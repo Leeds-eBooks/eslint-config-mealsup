@@ -1,8 +1,8 @@
 {
-  "src": {
-    "commitMessage": "Release v%s",
-    "tagName": "v%s",
-    "tagAnnotation": "Release v%s"
+  "git": {
+    "commitMessage": "Release v${version}",
+    "tagName": "v${version}",
+    "tagAnnotation": "Release v${version}"
   },
   "github": {
     "release": true,
