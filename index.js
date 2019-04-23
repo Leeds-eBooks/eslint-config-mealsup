@@ -18,7 +18,7 @@ module.exports = {
     'react-native/no-unused-styles': 1,
     'react-native/split-platform-components': 1,
     'react-native/no-inline-styles': 1,
-    'react-native/no-raw-text': 1,
+    'react-native/no-raw-text': 0,
 
     'react/jsx-key': 0,
     'react/jsx-boolean-value': 1,

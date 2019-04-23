@@ -35,6 +35,6 @@
     "release-it": "^10.4.3"
   },
   "dependencies": {
-    "eslint-config-rapt": "^1.5.1"
+    "eslint-config-rapt": "^1.5.3"
   }
 }
