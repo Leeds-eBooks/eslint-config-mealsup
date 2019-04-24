@@ -32,9 +32,9 @@
     "eslint-plugin-react-native": "^3.6.0"
   },
   "devDependencies": {
-    "release-it": "^10.4.3"
+    "release-it": "^10.4.4"
   },
   "dependencies": {
-    "eslint-config-rapt": "^1.5.3"
+    "eslint-config-rapt": "^1.5.4"
   }
 }
